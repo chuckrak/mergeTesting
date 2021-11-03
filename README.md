@@ -1,3 +1,3 @@
-### Jay And Chuck Github Project
+### Jay And Chuck Github Lab 8
 
 __Goals__ Pull, Push, Commit, Checkout, 
