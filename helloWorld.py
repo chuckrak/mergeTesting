@@ -6,4 +6,3 @@ class HelloWorld:
 
 world = HelloWorld("hi there!")
 world.printMessage()
-        
